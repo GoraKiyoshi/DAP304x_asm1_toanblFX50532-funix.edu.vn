@@ -86,13 +86,15 @@ Step 2: Running the Program
 
 1. Launch the Anaconda Navigator and open a Jupyter Notebook.
 
-2. Run the Python script by executing the cells in the notebook.
+2. Install the data folder.   
 
-3. Follow the on-screen prompts:
+3. Run the Python script by executing the cells in the notebook.
 
-4. Enter the file name (without .txt).
+4. Follow the on-screen prompts:
 
-5. The program will validate the file, process data, and generate a report.
+5. Enter the file name (without .txt).
+
+6. The program will validate the file, process data, and generate a report.
 
 Step 3: Output
 
