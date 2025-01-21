@@ -102,6 +102,8 @@ Step 3: Output
 
 2. Results will be saved in a new file named <input_filename>_grades.txt.
 
+You can check your output format with the Expect Output folder for better accuracy.
+
 Notes
 
 Ensure all input files strictly follow the expected format.
